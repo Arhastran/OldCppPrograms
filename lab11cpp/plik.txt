@@ -1,0 +1,6 @@
+Nazwa: pieknypiksel
+Typ: Piksel
+Wymiar 2
+Kolor: kolorowy
+Wspolrzedna x: 5
+Wspolrzedna y: 8

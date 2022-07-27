@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587837154 source:c:\users\toaad\desktop\dupa\lab7cpp\main.cpp
+	"Pojazdy.h"
+
+1587837244 source:c:\users\toaad\desktop\dupa\lab7cpp\pojazdy.cpp
+	"Pojazdy.h"
+
+1587837038 c:\users\toaad\desktop\dupa\lab7cpp\pojazdy.h
+	<iostream>
+	<math.h>
+

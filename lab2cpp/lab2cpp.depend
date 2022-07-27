@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584568446 source:c:\users\toaad\desktop\dupa\lab2cpp\main.cpp
+	"telewizor.h"
+	<iostream>
+
+1584568923 c:\users\toaad\desktop\dupa\lab2cpp\telewizor.h
+	<iostream>
+
+1584570416 source:c:\users\toaad\desktop\dupa\lab2cpp\telewizor.cpp
+	"telewizor.h"
+

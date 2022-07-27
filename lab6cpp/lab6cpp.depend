@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587243453 source:c:\users\toaad\desktop\dupa\lab6cpp\main.cpp
+	"Klasy.h"
+
+1587243696 source:c:\users\toaad\desktop\dupa\lab6cpp\metody.cpp
+	"Klasy.h"
+
+1587243800 c:\users\toaad\desktop\dupa\lab6cpp\klasy.h
+	<iostream>
+	<math.h>
+	<cstdlib>
+

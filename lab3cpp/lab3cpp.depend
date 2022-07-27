@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584881891 source:c:\users\toaad\desktop\dupa\lab3cpp\main.cpp
+	"wielomian.h"
+
+1584877896 c:\users\toaad\desktop\dupa\lab3cpp\wielomian.h
+	<iostream>
+	<math.h>
+
+1584880404 source:c:\users\toaad\desktop\dupa\lab3cpp\wielomian.cpp
+	"wielomian.h"
+

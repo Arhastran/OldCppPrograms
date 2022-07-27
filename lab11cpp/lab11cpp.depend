@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590425662 source:c:\users\toaad\desktop\dupa\lab11cpp\main.cpp
+	"Punkt.h"
+
+1590346264 c:\users\toaad\desktop\dupa\lab11cpp\punkt.h
+	<iostream>
+	<fstream>
+	<math.h>
+
+1590423882 source:c:\users\toaad\desktop\dupa\lab11cpp\punkt.cpp
+	"Punkt.h"
+

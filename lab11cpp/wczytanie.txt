@@ -1,0 +1,4 @@
+Pierwszy 8
+Drugi 5 10.5
+Trzeci 57.52 69 66.6
+Piksel czarny 54 23 

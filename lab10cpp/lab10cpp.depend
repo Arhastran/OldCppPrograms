@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589536805 source:c:\users\toaad\desktop\dupa\lab10cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<fstream>
+	<time.h>
+

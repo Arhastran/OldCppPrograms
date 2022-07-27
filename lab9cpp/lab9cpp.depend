@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1589188993 source:c:\users\toaad\desktop\dupa\lab9cpp\main.cpp
+	"Osoba.h"
+	"Porownanie.h"
+	<vector>
+
+1589138421 c:\users\toaad\desktop\dupa\lab9cpp\osoba.h
+	<iostream>
+	<math.h>
+
+1589136290 c:\users\toaad\desktop\dupa\lab9cpp\porownanie.h
+	"Osoba.h"
+	<iostream>
+	<math.h>
+
+1589189189 source:c:\users\toaad\desktop\dupa\lab9cpp\osoba.cpp
+	"Osoba.h"
+
+1589188912 source:c:\users\toaad\desktop\dupa\lab9cpp\porownanie.cpp
+	"Porownanie.h"
+
+1589134674 source:c:\users\toaad\desktop\dupa\lab9cpp\makefile.c
+

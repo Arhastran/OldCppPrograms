@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588253799 source:c:\users\toaad\desktop\dupa\lab8cpp\human.cpp
+	"Human.h"
+
+1588255013 c:\users\toaad\desktop\dupa\lab8cpp\human.h
+	<iostream>
+	<math.h>
+
+1588254557 source:c:\users\toaad\desktop\dupa\lab8cpp\main.cpp
+	"Human.h"
+

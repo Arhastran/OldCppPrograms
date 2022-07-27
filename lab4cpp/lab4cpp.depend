@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585577169 source:c:\users\toaad\desktop\dupa\lab4cpp\czlowiek.cpp
+	"Czlowiek.h"
+
+1585576927 source:c:\users\toaad\desktop\dupa\lab4cpp\main.cpp
+	"Czlowiek.h"
+	<cstdlib>
+	<iostream>
+	<time.h>
+
+1585506984 c:\users\toaad\desktop\dupa\lab4cpp\czlowiek.h
+	<iostream>
+	<math.h>
+	<cstdlib>
+

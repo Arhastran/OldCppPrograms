@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586172942 source:c:\users\toaad\desktop\dupa\lab5cpp\main.cpp
+	"Statki.h"
+	<time.h>
+
+1586173678 c:\users\toaad\desktop\dupa\lab5cpp\statki.h
+	<iostream>
+	<math.h>
+	<cstdlib>
+
+1586173681 source:c:\users\toaad\desktop\dupa\lab5cpp\statki.cpp
+	"Statki.h"
+
